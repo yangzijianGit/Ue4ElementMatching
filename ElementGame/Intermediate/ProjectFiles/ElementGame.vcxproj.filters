@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ElementGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5A2B27C4-8D42-4CD6-8762-1A577ACADB78}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ElementGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ElementGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{532D2009-EE69-4CC1-A057-B01E5B3F7A42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ElementGame">
+      <UniqueIdentifier>{7057E825-600B-447F-8534-4250BF26B55C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ElementGame\ElementGame.Build.cs">
+      <Filter>Source\ElementGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ElementGame\ElementGame.cpp">
+      <Filter>Source\ElementGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementGame\ElementGame.h">
+      <Filter>Source\ElementGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementGame\ElementGameBlueprintFunctionLibrary.cpp">
+      <Filter>Source\ElementGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementGame\ElementGameBlueprintFunctionLibrary.h">
+      <Filter>Source\ElementGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementGame\ElementGameGameInstance.cpp">
+      <Filter>Source\ElementGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementGame\ElementGameGameInstance.h">
+      <Filter>Source\ElementGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementGame\ElementGameGameMode.cpp">
+      <Filter>Source\ElementGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementGame\ElementGameGameMode.h">
+      <Filter>Source\ElementGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementGame\ElementGamePlayerController.cpp">
+      <Filter>Source\ElementGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementGame\ElementGamePlayerController.h">
+      <Filter>Source\ElementGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementGame\ElementGameSaveGame.cpp">
+      <Filter>Source\ElementGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementGame\ElementGameSaveGame.h">
+      <Filter>Source\ElementGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

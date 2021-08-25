@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ElementGame",
+			"Path": "E:\\Project\\Ue4ElementMatching\\ElementGame\\Source\\ElementGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ElementGameEditor",
+			"Path": "E:\\Project\\Ue4ElementMatching\\ElementGame\\Source\\ElementGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

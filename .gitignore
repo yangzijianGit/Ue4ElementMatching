@@ -36,6 +36,7 @@
 *.sdf
 *.sln
 *.vc.db
+*.vcxproj
 
 # Precompiled Assets
 SourceArt/**/*.png
